@@ -2,8 +2,8 @@
 Contributors: weblineindia
 Tags: popular posts, posts, popular, popular content, popular posts widget, popular data, most visited posts 
 Requires at least: 3.2
-Tested up to: 6.5.4
-Stable tag: 1.1.0
+Tested up to: 6.7
+Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -66,6 +66,10 @@ If you like this plugin then please rate our plugin to help us spread the word.
 14. Frontend view of Popular Posts as Slider
 
 == Changelog ==
+
+= 1.1.1 =
+Release Date: December 10, 2024
+* Fix: Checked compatibility with WordPress version 6.7.1
 
 = 1.1.0 =
 Release Date: June 21, 2024

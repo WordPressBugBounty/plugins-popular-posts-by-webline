@@ -4,7 +4,7 @@
  * Plugin URI: http://www.weblineindia.com
  * Description: This plugin is used to show the Popular Posts as per the different filters applied on it. This is very simple and light plugin and easy to use.
  * Author: Weblineindia
- * Version: 1.1.0
+ * Version: 1.1.1
  * Author URI: http://www.weblineindia.com
  * License: GPL
  * Text Domain: popular-posts-by-webline
